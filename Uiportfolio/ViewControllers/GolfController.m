@@ -5,7 +5,7 @@
 //  Created by Ak Prathipati on 1/15/20.
 //  Copyright © 2020 JM. All rights reserved.
 //
-
+// hi 
 #import <Foundation/Foundation.h>
 @implementation GolfController : NSObject
 @synthesize ball, hole;
