@@ -11,6 +11,7 @@
 		1526F68723CFEA39005C1479 /* golfball.png in Resources */ = {isa = PBXBuildFile; fileRef = 1526F68623CFEA39005C1479 /* golfball.png */; };
 		1526F68923CFEA6C005C1479 /* GolfController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1526F68823CFEA6C005C1479 /* GolfController.m */; };
 		1526F68D23CFEAA9005C1479 /* GolfController.c in Sources */ = {isa = PBXBuildFile; fileRef = 1526F68C23CFEAA9005C1479 /* GolfController.c */; };
+		1526F68F23CFEFB3005C1479 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1526F68E23CFEFB3005C1479 /* Storyboard.storyboard */; };
 		6D5429B523708A0A0059C604 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D5429B423708A0A0059C604 /* AppDelegate.m */; };
 		6D5429B823708A0A0059C604 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D5429B723708A0A0059C604 /* SceneDelegate.m */; };
 		6D5429BB23708A0A0059C604 /* CalcController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D5429BA23708A0A0059C604 /* CalcController.m */; };
@@ -33,6 +34,7 @@
 		1526F68823CFEA6C005C1479 /* GolfController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GolfController.m; sourceTree = "<group>"; };
 		1526F68A23CFEA7D005C1479 /* GolfController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GolfController.h; sourceTree = "<group>"; };
 		1526F68C23CFEAA9005C1479 /* GolfController.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = GolfController.c; sourceTree = "<group>"; };
+		1526F68E23CFEFB3005C1479 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		6D5429B023708A0A0059C604 /* Uiportfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Uiportfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D5429B323708A0A0059C604 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6D5429B423708A0A0059C604 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				C4DAD404237CC38200EA135B /* Square.storyboard */,
 				6D5429BF23708A0C0059C604 /* Assets.xcassets */,
 				1526F68423CFE77C005C1479 /* Golf.storyboard */,
+				1526F68E23CFEFB3005C1479 /* Storyboard.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 			files = (
 				C4DAD405237CC38200EA135B /* Square.storyboard in Resources */,
 				6D5429C323708A0C0059C604 /* LaunchScreen.storyboard in Resources */,
+				1526F68F23CFEFB3005C1479 /* Storyboard.storyboard in Resources */,
 				1526F68723CFEA39005C1479 /* golfball.png in Resources */,
 				6D5429C023708A0C0059C604 /* Assets.xcassets in Resources */,
 				6DB666072371E7D600A89134 /* Calculator.storyboard in Resources */,
